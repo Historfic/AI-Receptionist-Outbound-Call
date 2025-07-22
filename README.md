@@ -38,9 +38,6 @@ This project was developed for a roofing contractor in Texas. When storms hit th
 - Increased inspection bookings and qualified leads.
 - Enhanced customer experience with personalized AI calls.
 
-## 📸 Demo / Screenshots (Optional)
-<!-- Add screenshots or audio call samples here -->
-
 ## 📁 How to Use (Coming Soon)
 Instructions for deployment will be added if made public. This version is client-specific and currently customized for internal use.
 
